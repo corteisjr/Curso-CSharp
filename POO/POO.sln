@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsular", "Encapsular\En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{99DA9030-35A1-45AD-A4EE-2DBD212BA6F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modificadores", "Modificadores\Modificadores.csproj", "{603BD80B-16B6-4DD3-A65F-3151E124A90D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{6091ACB6-83A8-49D2-B8B7-F30751244AA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{99DA9030-35A1-45AD-A4EE-2DBD212BA6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99DA9030-35A1-45AD-A4EE-2DBD212BA6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99DA9030-35A1-45AD-A4EE-2DBD212BA6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603BD80B-16B6-4DD3-A65F-3151E124A90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603BD80B-16B6-4DD3-A65F-3151E124A90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603BD80B-16B6-4DD3-A65F-3151E124A90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603BD80B-16B6-4DD3-A65F-3151E124A90D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6091ACB6-83A8-49D2-B8B7-F30751244AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6091ACB6-83A8-49D2-B8B7-F30751244AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6091ACB6-83A8-49D2-B8B7-F30751244AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6091ACB6-83A8-49D2-B8B7-F30751244AA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

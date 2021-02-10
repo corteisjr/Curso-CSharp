@@ -58,7 +58,7 @@ namespace MultiplicarMatrizes
             int[,] resultado = new int[2, 2];
 
             Console.WriteLine("Preencha a matriz #1");
-
+            
             for (int linha = 0; linha < 2; linha++)
             {
                 for (int coluna = 0; coluna < 3; coluna++)
