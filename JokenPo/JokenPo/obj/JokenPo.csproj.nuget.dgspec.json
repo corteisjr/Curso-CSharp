@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AGNESS NOTA\\Desktop\\Estudos\\Csharp\\Curso C#\\JokenPo\\JokenPo\\JokenPo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AGNESS NOTA\\Desktop\\Estudos\\Csharp\\Curso C#\\JokenPo\\JokenPo\\JokenPo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AGNESS NOTA\\Desktop\\Estudos\\Csharp\\Curso C#\\JokenPo\\JokenPo\\JokenPo.csproj",
+        "projectName": "JokenPo",
+        "projectPath": "C:\\Users\\AGNESS NOTA\\Desktop\\Estudos\\Csharp\\Curso C#\\JokenPo\\JokenPo\\JokenPo.csproj",
+        "packagesPath": "C:\\Users\\AGNESS NOTA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AGNESS NOTA\\Desktop\\Estudos\\Csharp\\Curso C#\\JokenPo\\JokenPo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AGNESS NOTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
